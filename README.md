@@ -18,7 +18,7 @@ on sources in Turkish, Arabic, Hausa, Tamasheq, and Fulfulde alongside European 
  ## Open access
 
 All my open-access publications — articles, theses, abstracts and bibliographic data —
-are collected in the [**publications**](https://github.com/USERNAME/publications) repository.
+are collected in the [**publications**](https://github.com/keremduymus/publications) repository.
 
 My website is available in six languages: English, Türkçe, Français, Español, العربية, Hausa.
 
